@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mi Super Imagen</string>
+    <string name="titulo_principal">Hola!! Mi nombre es Gizmo, soy un Mogwai. Cuidado con las tres reglas</string>
+    <string name="imagen_principal">Imagen responsiva</string>"
 </resources>
